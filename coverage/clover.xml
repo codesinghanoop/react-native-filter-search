@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1654440399204" clover="3.2.0">
+  <project timestamp="1654440399204" name="All files">
+    <metrics statements="19" coveredstatements="19" conditionals="33" coveredconditionals="28" methods="8" coveredmethods="8" elements="60" coveredelements="55" complexity="0" loc="19" ncloc="19" packages="1" files="1" classes="1"/>
+    <file name="operation.ts" path="/Users/anoopsingh/Documents/workspace/xiteMusic/src/util/operation.ts">
+      <metrics statements="19" coveredstatements="19" conditionals="33" coveredconditionals="28" methods="8" coveredmethods="8"/>
+      <line num="4" count="6" type="cond" truecount="7" falsecount="0"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="9" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="4" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="12" count="7" type="stmt"/>
+      <line num="13" count="14" type="stmt"/>
+      <line num="15" count="7" type="stmt"/>
+      <line num="17" count="4" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="23" count="6" type="stmt"/>
+      <line num="26" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="29" count="5" type="cond" truecount="4" falsecount="0"/>
+      <line num="30" count="2" type="stmt"/>
+      <line num="31" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="32" count="2" type="stmt"/>
+      <line num="33" count="3" type="cond" truecount="3" falsecount="1"/>
+      <line num="34" count="5" type="cond" truecount="2" falsecount="0"/>
+    </file>
+  </project>
+</coverage>
